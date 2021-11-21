@@ -9,7 +9,9 @@ let scriptures = [
     ['Psalm', 103, 1, 'Praise the LORD, my soul; all my inmost being, praise His holy name. Praise the LORD, my soul, and forget not all His benefits — who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion'],
     ['Hebrews', 13, 15, 'Through Jesus, therefore, let us continually offer to God a sacrifice of praise — the fruit of lips that openly profess His name.'],
     ['2 Corinthians', 9, 15, 'Thanks be to God for His indescribable gift!'],
-    ['Colossians', 4, 2, 'Devote yourselves to prayer, being watchful and thankful.']
+    ['Colossians', 4, 2, 'Devote yourselves to prayer, being watchful and thankful.'],
+    ['2 Corinthians', 5, 7 'For we live by faith, not by sight.'],
+    ['James', 1, 3, 'Because you know that the testing of your faith produces perseverance.']
 ];
 
 const runScripture = (messages) => {
