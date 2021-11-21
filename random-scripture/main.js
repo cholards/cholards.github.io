@@ -6,7 +6,7 @@ let scriptures = [
     ['Deuteronomy', 31, 6, 'Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.'],
     ['Psalm', 27, 12, 'The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?'],
     ['John', 4, 18, 'There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.'],
-    ['Psalm, 103, 1, Praise the LORD, my soul; all my inmost being, praise His holy name. Praise the LORD, my soul, and forget not all His benefits — who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion'],
+    ['Psalm', 103, 1, 'Praise the LORD, my soul; all my inmost being, praise His holy name. Praise the LORD, my soul, and forget not all His benefits — who forgives all your sins and heals all your diseases, who redeems your life from the pit and crowns you with love and compassion'],
     ['Hebrews', 13, 15, 'Through Jesus, therefore, let us continually offer to God a sacrifice of praise — the fruit of lips that openly profess His name.'],
     ['2 Corinthians', 9, 15, 'Thanks be to God for His indescribable gift!'],
     ['Colossians', 4, 2, 'Devote yourselves to prayer, being watchful and thankful.']
