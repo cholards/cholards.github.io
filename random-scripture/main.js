@@ -11,7 +11,11 @@ let scriptures = [
     ['2 Corinthians', 9, 15, 'Thanks be to God for His indescribable gift!'],
     ['Colossians', 4, 2, 'Devote yourselves to prayer, being watchful and thankful.'],
     ['2 Corinthians', 5, 7 'For we live by faith, not by sight.'],
-    ['James', 1, 3, 'Because you know that the testing of your faith produces perseverance.']
+    ['James', 1, 3, 'Because you know that the testing of your faith produces perseverance.'],
+    ['Psalm', 34, 8, 'Taste and see that the LORD is good; blessed is the one who takes refuge in him.'],
+    ['Matthews', 17, 20, 'Our faith can move mountains'],
+    ['Philippians', 4, 13, 'I can do all things through him who strengthens me.'],
+    ['1 Corinthians', 16, 13, 'Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.']
 ];
 
 const runScripture = (messages) => {
