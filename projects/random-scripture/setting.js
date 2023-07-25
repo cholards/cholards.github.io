@@ -1,1 +1,1 @@
-export let setup = { source: "local", bgcolor: "purple" };
+export let setup = { source: "defaultScriptures", bgcolor: "purple", top: "50%" };

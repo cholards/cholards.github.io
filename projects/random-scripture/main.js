@@ -9,6 +9,8 @@ const cover = document.getElementById("cover")
 
 // Set all parameters by grabbing values setting file.
 cover.style.setProperty("background-color", setup.bgcolor)
+cover.style.setProperty("top", setup.top)
+
 
 
 
@@ -16,7 +18,9 @@ cover.style.setProperty("background-color", setup.bgcolor)
 
 
 button.addEventListener("click", (event) => {
-    const randoNum = Math.floor(Math.random() * defaultScriptures.length);
+
+    //check for the number of items in the scriputre database
+    const randoNum = Math.floor(Math.random() * setup.source.length);
 
     let randyMe = defaultScriptures[randoNum];
     let bibBook = randyMe[0];
