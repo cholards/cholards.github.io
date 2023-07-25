@@ -1,0 +1,1 @@
+export let setup = { source: "local", bgcolor: "purple" };
